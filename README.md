@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/ferdinandlaine"><img src="https://github.com/ferdinandlaine/ferdinandlaine/blob/master/devcard.png" width="256" alt="Ferdinand Lainé's Dev Card" /></a>
+<!-- <a href="https://app.daily.dev/ferdinandlaine"><img src="https://github.com/ferdinandlaine/ferdinandlaine/blob/master/devcard.png" width="256" alt="Ferdinand Lainé's Dev Card" /></a> -->
 
 <!--
 **ferdinandlaine/ferdinandlaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
